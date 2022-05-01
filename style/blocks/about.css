@@ -1,0 +1,46 @@
+.about {
+    height: 552px;
+    margin-bottom: 41px;
+}
+
+.about__img, .about__content {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.about__img {
+    width: 490px;
+    height: 505px;
+    border-radius: 5px;
+}
+
+
+.about__content {
+    background: url(/img/mountains.png);
+    background-repeat: no-repeat;
+    width: 785px;
+    height: 455px;
+    padding: 73px 202px 66px 81px;
+    margin-left: 353px;
+    margin-top: -408px;
+}
+
+.title--dark {
+    color: #000000;
+    margin-bottom: 42px;
+}
+
+.about__text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #060606;
+    margin-bottom: 61px;
+}
+
+.line {
+    width: 1142px;
+    height: 4px;
+    background: url(/img/line.png);
+    margin-bottom: 55px;
+}

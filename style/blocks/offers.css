@@ -1,0 +1,105 @@
+.offers {
+    margin-top: 246px;
+    margin-bottom: 127px;
+    height: 549px;
+}
+/* Не разобралась пока как сделать контент с отступом */
+.title--fire:after {
+    content: "     " url(/img/flame.png);
+}
+
+
+
+.offers__item {
+    max-width: 362px;
+    min-height: 449px;
+    display: inline-block;
+    border-radius: 0px 0px 5px 5px;
+    margin-right: 23px;
+    background: #FFFFFF;
+    vertical-align: top;
+}
+
+.offers__item:last-child {
+    margin-right: 0px;
+}
+
+.offers__img {
+    width: 362px;
+    height: 144px;
+    margin-bottom: 33px;
+}
+
+.offers__title {
+    margin: 0px 232px 21px 21px;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    margin-bottom: 22px;
+}
+
+.offers___feature {
+    display: inline-block;
+    margin: 0px 0px 20px 26px;
+}
+.offers___feature:last-child {
+    margin-right: 0px;
+}
+
+.offers__feature-img {
+    width: 30px;
+    height: 26px;
+    margin: 0px 5px 0px 0px;
+    display: inline-block;
+}
+
+.offers__feature-date {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #666666;
+    margin: 2px 0px 0px 0px;
+    display: inline-block;
+    vertical-align: top;
+    padding: 0px 0px;
+}
+
+.offers__feature-text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 23px;
+    color: #666666;
+    margin: 2px 0px 0px 0px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.offers__text {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #303030;
+    margin: 0px 16px 42px 20px;
+}
+
+.button--light {
+    background: #FFFFFF;
+    border: 1px solid #F5170E;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #F5170E;
+    margin: 0px 203px 26px 24px;
+    padding: 18px 28px;
+}
+
+.button--light:hover {
+    background: #F5170E;
+    border: 1px solid #F5170E;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    margin: 0px 203px 26px 24px;
+}
