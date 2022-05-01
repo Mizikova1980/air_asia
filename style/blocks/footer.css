@@ -61,35 +61,35 @@
 }
 
 .social__item--telegram .social__link {
-    background-image: url(/img/telegram.png);
+    background: url(../../img/telegram.png);
 }
 
 .social__item--vk .social__link {
-    background-image: url(/img/vk.png);
+    background: url(../../img/vk.png);
 }
 
 .social__item--fb .social__link {
-    background-image: url(/img/f.png);
+    background: url(../../img/f.png);
 }
 
 .social__item--insta .social__link {
-    background-image: url(/img/in.png);
+    background: url(../../img/in.png);
 }
 
 .social__item--telegram .social__link:hover {
-    background-image: url(/img/t2.png);
+    background: url(../../img/t2.png);
 }
 
 .social__item--vk .social__link:hover {
-    background-image: url(/img/vk2.png);
+    background: url(../../img/vk2.png);
 }
 
 .social__item--fb .social__link:hover {
-    background-image: url(/img/f2.png);
+    background: url(../../img/f2.png);
 }
 
 .social__item--insta .social__link:hover {
-    background-image: url(/img/in2.png);
+    background: url(../../img/in2.png);
 }
 
 .contacts {
@@ -113,8 +113,6 @@
     color: #9A9A9A;
     font-style: normal;
     margin-bottom: 4px;
-    
-
 }
 
 

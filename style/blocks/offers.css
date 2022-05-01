@@ -5,7 +5,7 @@
 }
 /* Не разобралась пока как сделать контент с отступом */
 .title--fire:after {
-    content: "     " url(/img/flame.png);
+    content: "     " url(../../img/flame.png);
 }
 
 

@@ -14,7 +14,7 @@ body {
 	-moz-osx-font-smoothing: grayscale;
 	color: #FFFFFF;
 	margin: 0;
-	background-image: url(/img/blackground.jpg);
+	background: url(../../img/blackground.jpg);
 	background-repeat: no-repeat;
 	background-size: auto auto;
 	

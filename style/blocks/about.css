@@ -16,7 +16,7 @@
 
 
 .about__content {
-    background: url(/img/mountains.png);
+    background: url(../../img/mountains.png);
     background-repeat: no-repeat;
     width: 785px;
     height: 455px;
@@ -41,6 +41,6 @@
 .line {
     width: 1142px;
     height: 4px;
-    background: url(/img/line.png);
+    background: url(../../img/line.png);
     margin-bottom: 55px;
 }
