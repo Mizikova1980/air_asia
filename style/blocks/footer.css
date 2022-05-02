@@ -1,25 +1,23 @@
 
 .footer-container {
     height: 123px;
-    position: relative;
-    left: 0px;
-    top: 0px;
+    background: #001821;
 
 }
 
-.logo {
+.logo--footer {
     display: block;
     position: absolute;
-    left: 0px;
-    top: 2px;
+    left: 390px;
+    top: 2829px;
     width: 85px;
     height: 36px;
 }
 
-.menu {
+.menu--footer {
     position: absolute;
-    left: 165px;
-    top: 15px;
+    left: 554px;
+    top: 2843px;
 }
 
 .menu__item {
@@ -40,8 +38,8 @@
 
 .social__list {
     position: absolute;
-    left: 702px;
-    top: 7px;
+    left: 1092px;
+    top: 2833px;
 }
 
 .social__item {
@@ -92,10 +90,10 @@
     background: url(../../img/in2.png);
 }
 
-.contacts {
+.contacts--footer {
     position: absolute;
-    left: 950px;
-    top: 0px;
+    left: 1340px;
+    top: 2826px;
     display: block;
 }
 .contacts__phone--footer {

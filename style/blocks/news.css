@@ -5,7 +5,7 @@
 
 .news__item {
     display: inline-block;
-    max-width: 556px;
+    min-width: 557px;
     max-height: 394px;
     margin-right: 20px;
     margin-bottom: 52px;
@@ -32,7 +32,7 @@
     right: 0;
     top: 230px;
     bottom: 26px;
-    padding: 23px 29px;
+    padding: 23px 0px 0px 29px;
     min-height: 142px;
 }
 
@@ -41,6 +41,7 @@
     font-size: 14px;
     line-height: 21px;
     margin-bottom: 12px;
+    vertical-align: top;
 }
 
 .news__title {
@@ -48,12 +49,15 @@
     font-size: 24px;
     line-height: 36px;
     margin-bottom: 4px;
+    vertical-align: top;
 }
 
 .news__text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 21px;
+    line-height: 19px;
+    vertical-align: baseline;
+    padding: 0px 0px 0px 1px;
 }
 
 .paginator {

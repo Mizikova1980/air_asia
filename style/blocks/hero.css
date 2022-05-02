@@ -1,11 +1,7 @@
 
 .hero {
     width: 511px;
-    height: 333px;
-    left: 390px;
-    top: 196px;
-    position: absolute;
-    margin-bottom: 246px;
+    margin-bottom: 266px;
 }
 
 .hero__title {
