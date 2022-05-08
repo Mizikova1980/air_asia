@@ -17,6 +17,7 @@
 }
 
 .breadcrumbs__item:after {
+    padding: 4px;
     content: "/";
 }
 

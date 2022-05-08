@@ -1,4 +1,4 @@
-
+@import url(../style/normalize.css);
 @import url(../style/blocks/base.css);
 @import url(../style/blocks/header.css);
 @import url(../style/blocks/hero.css);
