@@ -31,6 +31,7 @@ h6 {
 button {
 	border: 0;
 	cursor: pointer;
+	color: #FFFFFF;
 }
 
 * {
@@ -54,9 +55,6 @@ p {
 	padding: 0;
 }
 
-button {
-	cursor: pointer;
-}
 a {
 	color: inherit;
 	cursor: pointer;
@@ -69,6 +67,10 @@ img {
 	max-height: 100%;
 }
 
+input {
+	color: #FFFFFF;
+	border: transparent;
+}
 
 .wrapper {
 	min-height: 100%;
@@ -76,7 +78,6 @@ img {
 	flex-direction: column;
 
 }
-
 .wrapper__content {
 	
 	min-height: 100%;
@@ -157,7 +158,18 @@ img {
 		
 }
 
-
+.button--grey {
+	background: #8E8E8E;
+	color: #FFFFFF;
+	margin-right: 15px;
+ }
+ 
+ .button--grey:hover {
+	background: #2B2B2B;
+	color: #FFFFFF;
+ }
+ 
+ 
 
 .title {
 	font-weight: 700;

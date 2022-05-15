@@ -1,0 +1,23 @@
+.banner {
+    min-height: 363px;
+    background: url(../../img/banner/couple.png) right 406px bottom 1px no-repeat, url(../../img/banner/Rectangle.png) left top no-repeat;
+}
+
+.banner__content {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.title--banner {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 69px;
+    max-width: 595px;
+    margin-top: 117px;
+    margin-left: 10px;
+}
+
+
+
+
