@@ -73,6 +73,15 @@
     
 }
 
+.dropdown__link::after {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 0px;
+    width: 100%;
+    border: 20px solid transparent;
+}
+
 .dropdown__menu {
     position: absolute;
     top: 100%;
